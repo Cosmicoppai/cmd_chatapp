@@ -19,19 +19,22 @@ Client Side         |  Server Side
 ```
 Python >= 3.9
 
-virtualenv >= 16.0.0```
+virtualenv >= 16.0.0
+```
 
 - Run these command to run the project on your local machine
-> python -m venv socketVenv
-> 
-> Activate the Virtual Env
-> 
-> clone the project
-> 
-> cd src
-> 
-> pip install -r requirements.txt
-> 
->python server.py
-> 
-> python client.py
+```
+python -m venv socketVenv
+ 
+Activate the Virtual Env
+ 
+clone the project
+ 
+cd src
+ 
+pip install -r requirements.txt
+
+python server.py
+ 
+python client.py
+```
