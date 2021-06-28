@@ -16,9 +16,10 @@ Client Side         |  Server Side
 ---
 ## Normal Setup
 - Basic System Requirements
-> Python >= 3.9
-> 
-> virtualenv >= 16.0.0
+```
+Python >= 3.9
+
+virtualenv >= 16.0.0```
 
 - Run these command to run the project on your local machine
 > python -m venv socketVenv
