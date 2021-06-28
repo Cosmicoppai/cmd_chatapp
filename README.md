@@ -4,9 +4,13 @@ A Simple command line chat application using python and web sockets.
 
 
 
-Client Side         |  Server Side
-:-------------------------:|:-------------------------:
-![Client.py](src/client.py_ss.png)  |  ![server.py](src/server.py_ss.png)
+Client Side         
+:-------------------------:
+![Client.py](src/client.py_ss.png)
+
+Server Side
+:-------------------------:
+![server.py](src/server.py_ss.png)
 
 ---
 
