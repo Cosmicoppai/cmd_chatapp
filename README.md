@@ -1,4 +1,4 @@
-#Command-Line Chat Application
+# Command-Line Chat Application
 ***
 A Simple command line chat application using python and web sockets.
 
