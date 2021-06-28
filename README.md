@@ -10,11 +10,11 @@ Client Side         |  Server Side
 
 ---
 
-##Project Dependencies
+## Project Dependencies
 1. Colorama
 
 ---
-##Normal Setup
+## Normal Setup
 - Basic System Requirements
 > Python >= 3.9
 > 
@@ -31,6 +31,6 @@ Client Side         |  Server Side
 > 
 > pip install -r requirements.txt
 > 
-> python server.py
+>python server.py
 > 
 > python client.py
